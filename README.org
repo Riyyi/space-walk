@@ -1,6 +1,9 @@
-* Space Walk
+#+TITLE: Space Walk
+#+AUTHOR: Riyyi
+#+LANGUAGE: en
+#+OPTIONS: toc:nil
 
-[[https://mancala.fandom.com/wiki/Space_Walk][Space Walk]] board game
+[[https://mancala.fandom.com/wiki/Space_Walk][Space Walk]] board game.
 
 * Build instructions
 

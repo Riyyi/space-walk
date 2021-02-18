@@ -1,0 +1,13 @@
+* Space Walk
+
+[[https://mancala.fandom.com/wiki/Space_Walk][Space Walk]] board game
+
+* Build instructions
+
+#+BEGIN_SRC sh
+$ make
+#+END_SRC
+
+* Libraries
+
+- [[https://invisible-island.net/ncurses/ncurses.html][ncurses]]
